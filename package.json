@@ -1,0 +1,25 @@
+{
+  "name": "crack",
+  "version": "1.0.0",
+  "description": "Crack each MultiPolygons into Polygons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/crack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/crack/issues"
+  },
+  "homepage": "https://github.com/hfu/crack#readme",
+  "dependencies": {
+    "config": "^3.0.1",
+    "hjson": "^3.1.2",
+    "json-text-sequence": "^0.1.1"
+  }
+}
